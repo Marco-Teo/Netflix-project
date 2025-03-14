@@ -1,0 +1,13 @@
+body {
+  background-color: #141414;
+  color: white;
+}
+
+.btn-outline-light {
+  border-color: gray;
+  color: gray;
+}
+.btn-outline-light:hover {
+  background-color: gray;
+  color: black;
+}
