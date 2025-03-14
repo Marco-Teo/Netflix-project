@@ -2,10 +2,7 @@ body {
   background-color: #141414;
   color: white;
 }
-.navbar-brand {
-  color: #e50914 !important;
-  font-weight: bold;
-}
+
 .movie-row img {
   width: 100%;
   border-radius: 5px;
