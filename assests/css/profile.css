@@ -11,3 +11,6 @@ body {
   background-color: gray;
   color: black;
 }
+.button-width {
+  width: 200px;
+}
